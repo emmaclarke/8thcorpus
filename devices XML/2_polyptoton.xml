@@ -1,0 +1,896 @@
+<rhetorical_figure name="polyptoton" figure_id="203">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="7" element="debated">
+			<left_edge>2</left_edge>
+			<right_edge>9</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="8" element="debate">
+			<left_edge>63</left_edge>
+			<right_edge>69</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="204">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="16" element="incisive">
+			<left_edge>42</left_edge>
+			<right_edge>50</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="16" element="decisive">
+			<left_edge>53</left_edge>
+			<right_edge>61</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="16" element="deciding">
+			<left_edge>102</left_edge>
+			<right_edge>110</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="205">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="20" element="view">
+			<left_edge>33</left_edge>
+			<right_edge>37</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="21" element="views">
+			<left_edge>58</left_edge>
+			<right_edge>63</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="206">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="21" element="view">
+			<left_edge>24</left_edge>
+			<right_edge>28</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="21" element="views">
+			<left_edge>58</left_edge>
+			<right_edge>63</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="207">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="20" element="view">
+			<left_edge>42</left_edge>
+			<right_edge>46</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="21" element="views">
+			<left_edge>58</left_edge>
+			<right_edge>63</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="208">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="21" element="even">
+			<left_edge>63</left_edge>
+			<right_edge>67</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="22" element="every">
+			<left_edge>8</left_edge>
+			<right_edge>13</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="23" element="even">
+			<left_edge>141</left_edge>
+			<right_edge>145</right_edge>
+		</occurrence>
+
+		<occurrence id="4" sentence_id="24" element="every">
+			<left_edge>88</left_edge>
+			<right_edge>93</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="209">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="23" element="grapple">
+			<left_edge>33</left_edge>
+			<right_edge>40</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="24" element="grappling">
+			<left_edge>111</left_edge>
+			<right_edge>120</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="210">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="32" element="generation">
+			<left_edge>103</left_edge>
+			<right_edge>113</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="33" element="give">
+			<left_edge>8</left_edge>
+			<right_edge>12</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="211">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="35" element="become">
+			<left_edge>30</left_edge>
+			<right_edge>36</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="37" element="becomes">
+			<left_edge>35</left_edge>
+			<right_edge>42</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="37" element="becoming">
+			<left_edge>66</left_edge>
+			<right_edge>74</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="212">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="40" element="recommendations">
+			<left_edge>26</left_edge>
+			<right_edge>41</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="42" element="recommendation">
+			<left_edge>22</left_edge>
+			<right_edge>36</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="213">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="44" element="even">
+			<left_edge>29</left_edge>
+			<right_edge>33</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="46" element="Every">
+			<left_edge>0</left_edge>
+			<right_edge>5</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="214">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="46" element="five">
+			<left_edge>17</left_edge>
+			<right_edge>21</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="46" element="fly">
+			<left_edge>100</left_edge>
+			<right_edge>103</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="215">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="48" element="respectful">
+			<left_edge>50</left_edge>
+			<right_edge>60</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="49" element="respect">
+			<left_edge>30</left_edge>
+			<right_edge>37</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="216">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="48" element="view">
+			<left_edge>67</left_edge>
+			<right_edge>71</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="49" element="views">
+			<left_edge>49</left_edge>
+			<right_edge>54</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="50" element="view">
+			<left_edge>16</left_edge>
+			<right_edge>20</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="217">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="48" element="decision">
+			<left_edge>138</left_edge>
+			<right_edge>146</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="49" element="decided">
+			<left_edge>99</left_edge>
+			<right_edge>106</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="218">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="51" element="Constitution">
+			<left_edge>7</left_edge>
+			<right_edge>19</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="52" element="constitutional">
+			<left_edge>13</left_edge>
+			<right_edge>27</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="219">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="52" element="giving">
+			<left_edge>34</left_edge>
+			<right_edge>40</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="53" element="General">
+			<left_edge>28</left_edge>
+			<right_edge>35</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="220">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="55" element="repealed">
+			<left_edge>28</left_edge>
+			<right_edge>36</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="56" element="repeal">
+			<left_edge>161</left_edge>
+			<right_edge>167</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="221">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="55" element="Legislature">
+			<left_edge>40</left_edge>
+			<right_edge>51</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="56" element="legislation">
+			<left_edge>14</left_edge>
+			<right_edge>25</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="56" element="legislate">
+			<left_edge>139</left_edge>
+			<right_edge>148</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="222">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="56" element="give">
+			<left_edge>67</left_edge>
+			<right_edge>71</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="56" element="general">
+			<left_edge>275</left_edge>
+			<right_edge>282</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+
+<rhetorical_figure name="polyptoton" figure_id="223">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="62" element="abnormalities">
+			<left_edge>61</left_edge>
+			<right_edge>74</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="63" element="abnormality">
+			<left_edge>53</left_edge>
+			<right_edge>64</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="224">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="66" element="terminated">
+			<left_edge>48</left_edge>
+			<right_edge>58</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="68" element="terminate">
+			<left_edge>15</left_edge>
+			<right_edge>24</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="225">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="67" element="deciding">
+			<left_edge>14</left_edge>
+			<right_edge>22</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="68" element="decided">
+			<left_edge>6</left_edge>
+			<right_edge>13</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="69" element="decision">
+			<left_edge>11</left_edge>
+			<right_edge>19</right_edge>
+		</occurrence>
+
+		<occurrence id="4" sentence_id="71" element="decided">
+			<left_edge>4</left_edge>
+			<right_edge>11</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="226">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="75" element="rape">
+			<left_edge>93</left_edge>
+			<right_edge>97</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="77" element="raped">
+			<left_edge>111</left_edge>
+			<right_edge>116</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="227">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="77" element="determine">
+			<left_edge>83</left_edge>
+			<right_edge>92</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="77" element="termination">
+			<left_edge>134</left_edge>
+			<right_edge>145</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="79" element="determine">
+			<left_edge>145</left_edge>
+			<right_edge>154</right_edge>
+		</occurrence>
+
+		<occurrence id="4" sentence_id="79" element="termination">
+			<left_edge>168</left_edge>
+			<right_edge>179</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="228">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="79" element="decided">
+			<left_edge>89</left_edge>
+			<right_edge>96</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="81" element="decision">
+			<left_edge>121</left_edge>
+			<right_edge>129</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="229">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="79" element="clinician">
+			<left_edge>134</left_edge>
+			<right_edge>143</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="81" element="clinicians">
+			<left_edge>97</left_edge>
+			<right_edge>107</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="230">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="81" element="lives">
+			<left_edge>148</left_edge>
+			<right_edge>153</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="81" element="living">
+			<left_edge>160</left_edge>
+			<right_edge>166</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="231">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="82" element="travelling">
+			<left_edge>41</left_edge>
+			<right_edge>51</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="84" element="travel">
+			<left_edge>110</left_edge>
+			<right_edge>116</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="232">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="83" element="say">
+			<left_edge>44</left_edge>
+			<right_edge>47</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="84" element="saying">
+			<left_edge>93</left_edge>
+			<right_edge>99</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="233">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="83" element="alarming">
+			<left_edge>66</left_edge>
+			<right_edge>74</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="84" element="alarmed">
+			<left_edge>3</left_edge>
+			<right_edge>10</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="234">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="86" element="termination">
+			<left_edge>94</left_edge>
+			<right_edge>105</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="87" element="terminations">
+			<left_edge>20</left_edge>
+			<right_edge>32</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="235">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="89" element="speaking">
+			<left_edge>39</left_edge>
+			<right_edge>47</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="91" element="speak">
+			<left_edge>52</left_edge>
+			<right_edge>57</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="236">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="90" element="speaking">
+			<left_edge>3</left_edge>
+			<right_edge>11</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="91" element="speak">
+			<left_edge>52</left_edge>
+			<right_edge>57</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="237">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="93" element="allows">
+			<left_edge>40</left_edge>
+			<right_edge>46</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="94" element="allow">
+			<left_edge>37</left_edge>
+			<right_edge>42</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="238">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="94" element="varying">
+			<left_edge>50</left_edge>
+			<right_edge>57</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="96" element="various">
+			<left_edge>61</left_edge>
+			<right_edge>68</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="239">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="95" element="varying">
+			<left_edge>20</left_edge>
+			<right_edge>27</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="96" element="various">
+			<left_edge>61</left_edge>
+			<right_edge>68</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="240">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="96" element="reasons">
+			<left_edge>68</left_edge>
+			<right_edge>75</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="97" element="Reason">
+			<left_edge>0</left_edge>
+			<right_edge>6</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="241">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="109" element="adjudicate">
+			<left_edge>7</left_edge>
+			<right_edge>17</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="109" element="judgmental">
+			<left_edge>24</left_edge>
+			<right_edge>34</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="110" element="judge">
+			<left_edge>10</left_edge>
+			<right_edge>15</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="242">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="112" element="view">
+			<left_edge>22</left_edge>
+			<right_edge>26</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="112" element="views">
+			<left_edge>75</left_edge>
+			<right_edge>80</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="243">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="112" element="even">
+			<left_edge>51</left_edge>
+			<right_edge>55</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="114" element="every">
+			<left_edge>15</left_edge>
+			<right_edge>20</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="244">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="118" element="talking">
+			<left_edge>23</left_edge>
+			<right_edge>30</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="119" element="talk">
+			<left_edge>6</left_edge>
+			<right_edge>10</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="245">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="118" element="remove">
+			<left_edge>185</left_edge>
+			<right_edge>191</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="119" element="removed">
+			<left_edge>81</left_edge>
+			<right_edge>88</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="119" element="remove">
+			<left_edge>108</left_edge>
+			<right_edge>114</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="246">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="122" element="holding">
+			<left_edge>42</left_edge>
+			<right_edge>49</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="123" element="hold">
+			<left_edge>100</left_edge>
+			<right_edge>104</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="247">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="122" element="impartial">
+			<left_edge>111</left_edge>
+			<right_edge>120</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="123" element="parties">
+			<left_edge>9</left_edge>
+			<right_edge>16</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polyptoton" figure_id="248">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="124" element="years">
+			<left_edge>20</left_edge>
+			<right_edge>25</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="124" element="year">
+			<left_edge>116</left_edge>
+			<right_edge>120</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+
+
+

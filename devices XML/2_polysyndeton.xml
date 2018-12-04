@@ -1,0 +1,114 @@
+<rhetorical_figure name="polysyndeton" figure_id="120">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="24" element="or">
+			<left_edge>20</left_edge>
+			<right_edge>22</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="24" element="or">
+			<left_edge>130</left_edge>
+			<right_edge>132</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="24" element="or">
+			<left_edge>151</left_edge>
+			<right_edge>153</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polysyndeton" figure_id="121">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="91" element="and">
+			<left_edge>16</left_edge>
+			<right_edge>19</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="91" element="and">
+			<left_edge>179</left_edge>
+			<right_edge>182</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="91" element="and">
+			<left_edge>349</left_edge>
+			<right_edge>352</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polysyndeton" figure_id="122">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="118" element="and">
+			<left_edge>129</left_edge>
+			<right_edge>132</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="118" element="and">
+			<left_edge>136</left_edge>
+			<right_edge>139</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="118" element="and">
+			<left_edge>146</left_edge>
+			<right_edge>149</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polysyndeton" figure_id="123">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="122" element="and">
+			<left_edge>13</left_edge>
+			<right_edge>16</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="122" element="and">
+			<left_edge>62</left_edge>
+			<right_edge>65</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="122" element="and">
+			<left_edge>108</left_edge>
+			<right_edge>111</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>
+
+<rhetorical_figure name="polysyndeton" figure_id="124">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="123" element="and">
+			<left_edge>16</left_edge>
+			<right_edge>19</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="123" element="and">
+			<left_edge>73</left_edge>
+			<right_edge>76</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="123" element="and">
+			<left_edge>105</left_edge>
+			<right_edge>108</right_edge>
+		</occurrence>
+
+	</occurrences>
+	
+</rhetorical_figure>

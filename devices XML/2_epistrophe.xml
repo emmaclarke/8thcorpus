@@ -1,0 +1,207 @@
+<rhetorical_figure name="epistrophe" figure_id="173">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="4" element="this issue">
+			<left_edge>94</left_edge>
+			<right_edge>103</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="6" element="this issue">
+			<left_edge>74</left_edge>
+			<right_edge>83</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epistrophe" figure_id="175">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="14" element="this issue">
+			<left_edge>78</left_edge>
+			<right_edge>87</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="16" element="this issue">
+			<left_edge>69</left_edge>
+			<right_edge>78</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epistrophe" figure_id="179">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="45" element="this issue">
+			<left_edge>88</left_edge>
+			<right_edge>97</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="47" element="this issue">
+			<left_edge>52</left_edge>
+			<right_edge>61</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epistrophe" figure_id="180">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="56" element="in the event of a repeal">
+			<left_edge>148</left_edge>
+			<right_edge>167</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="57" element="in the event of a repeal">
+			<left_edge>93</left_edge>
+			<right_edge>112</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epistrophe" figure_id="181">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="68" element="to go abroad">
+			<left_edge>141</left_edge>
+			<right_edge>151</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="69" element="to go abroad">
+			<left_edge>19</left_edge>
+			<right_edge>29</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epistrophe" figure_id="183">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="96" element="of the woman">
+			<left_edge>134</left_edge>
+			<right_edge>144</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="98" element="of the woman">
+			<left_edge>36</left_edge>
+			<right_edge>46</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="99" element="of the woman">
+			<left_edge>42</left_edge>
+			<right_edge>52</right_edge>
+		</occurrence>
+
+		<occurrence id="4" sentence_id="100" element="of the woman">
+			<left_edge>36</left_edge>
+			<right_edge>46</right_edge>
+		</occurrence>
+
+		<occurrence id="5" sentence_id="101" element="of the woman">
+			<left_edge>37</left_edge>
+			<right_edge>47</right_edge>
+		</occurrence>
+
+		<occurrence id="6" sentence_id="102" element="of the woman">
+			<left_edge>35</left_edge>
+			<right_edge>45</right_edge>
+		</occurrence>
+
+		<occurrence id="7" sentence_id="103" element="of the woman">
+			<left_edge>29</left_edge>
+			<right_edge>39</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epistrophe" figure_id="184">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="98" element="was a serious risk to the health of the woman">
+			<left_edge>10</left_edge>
+			<right_edge>46</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="100" element="was a serious risk to the health of the woman">
+			<left_edge>10</left_edge>
+			<right_edge>46</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epistrophe" figure_id="185">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="98" element="health of the woman">
+			<left_edge>30</left_edge>
+			<right_edge>46</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="99" element="health of the woman">
+			<left_edge>36</left_edge>
+			<right_edge>52</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="100" element="health of the woman">
+			<left_edge>30</left_edge>
+			<right_edge>46</right_edge>
+		</occurrence>
+
+		<occurrence id="4" sentence_id="101" element="health of the woman">
+			<left_edge>31</left_edge>
+			<right_edge>47</right_edge>
+		</occurrence>
+
+		<occurrence id="5" sentence_id="102" element="health of the woman">
+			<left_edge>29</left_edge>
+			<right_edge>45</right_edge>
+		</occurrence>
+
+		<occurrence id="6" sentence_id="103" element="health of the woman">
+			<left_edge>23</left_edge>
+			<right_edge>39</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epistrophe" figure_id="186">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="118" element="foetal anomalies">
+			<left_edge>86</left_edge>
+			<right_edge>101</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="118" element="foetal anomalies">
+			<left_edge>107</left_edge>
+			<right_edge>122</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+

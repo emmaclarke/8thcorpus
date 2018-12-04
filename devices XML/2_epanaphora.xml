@@ -1,0 +1,321 @@
+<rhetorical_figure name="epanaphora" figure_id="125">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="2" element="I was">
+			<left_edge>16</left_edge>
+			<right_edge>20</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="3" element="I was">
+			<left_edge>0</left_edge>
+			<right_edge>4</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epanaphora" figure_id="126">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="2" element="to vote in">
+			<left_edge>28</left_edge>
+			<right_edge>36</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="3" element="to vote in">
+			<left_edge>34</left_edge>
+			<right_edge>42</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epanaphora" figure_id="129">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="4" element="to cast">
+			<left_edge>77</left_edge>
+			<right_edge>83</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="5" element="to cast">
+			<left_edge>111</left_edge>
+			<right_edge>117</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epanaphora" figure_id="131">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="9" element="It was">
+			<left_edge>0</left_edge>
+			<right_edge>5</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="9" element="it was">
+			<left_edge>119</left_edge>
+			<right_edge>124</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epanaphora" figure_id="136">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="27" element="We have">
+			<left_edge>0</left_edge>
+			<right_edge>6</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="29" element="we have">
+			<left_edge>100</left_edge>
+			<right_edge>106</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="30" element="We have">
+			<left_edge>0</left_edge>
+			<right_edge>6</right_edge>
+		</occurrence>
+
+		<occurrence id="4" sentence_id="32" element="we have">
+			<left_edge>127</left_edge>
+			<right_edge>133</right_edge>
+		</occurrence>
+
+		<occurrence id="5" sentence_id="33" element="We have">
+			<left_edge>0</left_edge>
+			<right_edge>6</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epanaphora" figure_id="140">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="30" element="We have to">
+			<left_edge>0</left_edge>
+			<right_edge>8</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="32" element="we have to">
+			<left_edge>127</left_edge>
+			<right_edge>135</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="33" element="We have to">
+			<left_edge>0</left_edge>
+			<right_edge>8</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epanaphora" figure_id="146">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="55" element="we can">
+			<left_edge>75</left_edge>
+			<right_edge>80</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="57" element="we can">
+			<left_edge>3</left_edge>
+			<right_edge>8</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epanaphora" figure_id="151">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="66" element="Would she">
+			<left_edge>0</left_edge>
+			<right_edge>8</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="66" element="would she">
+			<left_edge>34</left_edge>
+			<right_edge>42</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epanaphora" figure_id="153">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="68" element="to go abroad">
+			<left_edge>141</left_edge>
+			<right_edge>151</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="69" element="to go abroad">
+			<left_edge>19</left_edge>
+			<right_edge>29</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epanaphora" figure_id="154">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="75" element="we have">
+			<left_edge>30</left_edge>
+			<right_edge>36</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="76" element="We have">
+			<left_edge>0</left_edge>
+			<right_edge>6</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epanaphora" figure_id="157">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="78" element="to have">
+			<left_edge>7</left_edge>
+			<right_edge>13</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="80" element="to have">
+			<left_edge>87</left_edge>
+			<right_edge>93</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epanaphora" figure_id="159">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="83" element="I find">
+			<left_edge>56</left_edge>
+			<right_edge>61</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="85" element="I find">
+			<left_edge>0</left_edge>
+			<right_edge>5</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epanaphora" figure_id="161">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="89" element="I am speaking">
+			<left_edge>36</left_edge>
+			<right_edge>47</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="90" element="I am speaking">
+			<left_edge>0</left_edge>
+			<right_edge>11</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epanaphora" figure_id="166">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="97" element="Reason No.">
+			<left_edge>0</left_edge>
+			<right_edge>9</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="98" element="Reason No.">
+			<left_edge>0</left_edge>
+			<right_edge>9</right_edge>
+		</occurrence>
+
+		<occurrence id="3" sentence_id="99" element="Reason No.">
+			<left_edge>0</left_edge>
+			<right_edge>9</right_edge>
+		</occurrence>
+
+		<occurrence id="4" sentence_id="100" element="Reason No.">
+			<left_edge>0</left_edge>
+			<right_edge>9</right_edge>
+		</occurrence>
+
+		<occurrence id="5" sentence_id="101" element="Reason No.">
+			<left_edge>0</left_edge>
+			<right_edge>9</right_edge>
+		</occurrence>
+
+		<occurrence id="6" sentence_id="102" element="Reason No.">
+			<left_edge>0</left_edge>
+			<right_edge>9</right_edge>
+		</occurrence>
+
+		<occurrence id="7" sentence_id="103" element="Reason No.">
+			<left_edge>0</left_edge>
+			<right_edge>9</right_edge>
+		</occurrence>
+
+		<occurrence id="8" sentence_id="104" element="Reason No.">
+			<left_edge>0</left_edge>
+			<right_edge>9</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+<rhetorical_figure name="epanaphora" figure_id="168">
+	
+	<occurrences>
+
+		<occurrence id="1" sentence_id="109" element="Are we to">
+			<left_edge>0</left_edge>
+			<right_edge>7</right_edge>
+		</occurrence>
+
+		<occurrence id="2" sentence_id="110" element="are we to">
+			<left_edge>3</left_edge>
+			<right_edge>10</right_edge>
+		</occurrence>
+
+	</occurrences>
+
+</rhetorical_figure>
+
+
